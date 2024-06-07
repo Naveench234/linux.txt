@@ -1,0 +1,7 @@
+first create branch
+after commit changes
+3rd step create new file name
+git add .
+git commit -m "msg4"
+git log
+git push
